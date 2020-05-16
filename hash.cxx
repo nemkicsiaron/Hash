@@ -14,6 +14,7 @@ int insert(int k, int m, int pow, std::vector<hashfield>& t)
     if( pow == 1 )
     {
         int n = 0;
+        asdasdasd
         int i;
         for(i = (k+n) % m; t.at(i).status != E; ++i)
         {
